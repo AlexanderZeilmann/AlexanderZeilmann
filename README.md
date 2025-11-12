@@ -1,3 +1,5 @@
-# Hi, I’m Alexander Zeilmann 👋
+![](./img/wordmark.svg)
 
-[Please have a look at my website to learn more.](https://AlexanderZeilmann.de)
+# Hi, I’m Alexander Zeilmann
+
+[Please take a look at my website to learn more about me and my work.](https://AlexanderZeilmann.de)
